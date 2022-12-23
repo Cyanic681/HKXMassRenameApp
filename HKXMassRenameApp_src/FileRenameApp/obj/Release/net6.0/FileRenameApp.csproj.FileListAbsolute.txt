@@ -1,0 +1,15 @@
+C:\Users\micha\source\repos\FileRenameApp\bin\Release\net6.0\FileRenameApp.exe
+C:\Users\micha\source\repos\FileRenameApp\bin\Release\net6.0\FileRenameApp.deps.json
+C:\Users\micha\source\repos\FileRenameApp\bin\Release\net6.0\FileRenameApp.runtimeconfig.json
+C:\Users\micha\source\repos\FileRenameApp\bin\Release\net6.0\FileRenameApp.dll
+C:\Users\micha\source\repos\FileRenameApp\bin\Release\net6.0\FileRenameApp.pdb
+C:\Users\micha\source\repos\FileRenameApp\obj\Release\net6.0\FileRenameApp.csproj.AssemblyReference.cache
+C:\Users\micha\source\repos\FileRenameApp\obj\Release\net6.0\FileRenameApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\source\repos\FileRenameApp\obj\Release\net6.0\FileRenameApp.AssemblyInfoInputs.cache
+C:\Users\micha\source\repos\FileRenameApp\obj\Release\net6.0\FileRenameApp.AssemblyInfo.cs
+C:\Users\micha\source\repos\FileRenameApp\obj\Release\net6.0\FileRenameApp.csproj.CoreCompileInputs.cache
+C:\Users\micha\source\repos\FileRenameApp\obj\Release\net6.0\FileRenameApp.dll
+C:\Users\micha\source\repos\FileRenameApp\obj\Release\net6.0\refint\FileRenameApp.dll
+C:\Users\micha\source\repos\FileRenameApp\obj\Release\net6.0\FileRenameApp.pdb
+C:\Users\micha\source\repos\FileRenameApp\obj\Release\net6.0\FileRenameApp.genruntimeconfig.cache
+C:\Users\micha\source\repos\FileRenameApp\obj\Release\net6.0\ref\FileRenameApp.dll
